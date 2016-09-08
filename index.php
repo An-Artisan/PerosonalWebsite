@@ -131,8 +131,10 @@
                     <li><a href="#education" class="scroll">受过教育</a></li>
                     <li><a href="#skills" class="scroll">掌握技能</a></li>
                     <li><a href="#projects" class="scroll">我的项目</a></li>
+                    <li><a href="https://github.com/g1090035743" target="_blank">Github</a></li>
                     <li><a href="#contact" class="scroll">给我留言</a></li>
                 </ul>
+
                 <div class="clearfix"></div>
             </div>
         </div>

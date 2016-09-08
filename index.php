@@ -43,6 +43,8 @@
     <!--//结束导航平滑滚动-->
 </head>
 <body>
+
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
 <!--banner-->
 <div id="home" class="banner">
     <div class="banner-info">
@@ -94,7 +96,7 @@
                     <li>
                         <ul class="address-text">
                             <li><b>个人论坛</b></li>
-                            <li><a href="http://utopia.joker1996.com" target="_blank">tuopia.joker1996.com</a></li>
+                            <li><a href="http://utopia.joker1996.com" target="_blank">utopia.joker1996.com</a></li>
                         </ul>
                     </li>
                     <li>

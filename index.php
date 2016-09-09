@@ -708,6 +708,7 @@
     <div class="container">
         <p>© 2016 My Project. All rights reserved | Design by <a href="http://www.joker1996.com">www.joker1996.com</a>
         </p>
+        <p><img style="width: 18px;height: 18px;border-radius: 9px; " src="images/icp.jpg" alt=""><a style="color: #fff;font-size: 15px; " href="http://www.beianbeian.com/beianxinxi/565ec5c4-fc40-4060-ba09-93bb6239c0e8.html">备案/许可证号：渝ICP备16007281号</a></p>
     </div>
 </div>
 <!--//脚注结束-->
